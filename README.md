@@ -38,8 +38,8 @@
 
 ### :man_technologist: About Me :
 I am a Computer Science Student at the University of North Texas.
-- Bullet Point 1
-- Bullet Point 2
+- During my free time I like to skateboard, read, play video games and watch anime.
+- I 
 
 ---
 
