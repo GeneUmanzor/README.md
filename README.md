@@ -15,8 +15,8 @@
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://main.d3i4v23fhkfed.amplifyapp.com/">
-    <img src="https://img.shields.io/badge/Personal_Website-Dustin_Ruiz-blue?style=for-the-badge" alt="Personal Website Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Personal_Website-Genesis_Umanzor-blue?style=for-the-badge" alt="Personal Website Badge"/>
   </a>
 </div>
 
